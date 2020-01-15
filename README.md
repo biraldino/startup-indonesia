@@ -7,7 +7,7 @@ Daftar startup-startup Indonesia yang menjadi model kemajuan ekonomi digital di 
 ### Startup Indonesia
 
 
-* **Decacorn**
+* **[Startup Decacorn](definition/DECACORN.md)**
   + [GOJEK](https://www.gojek.com)
 
 * **Unicorn**
