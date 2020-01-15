@@ -10,19 +10,19 @@ Daftar startup-startup Indonesia yang menjadi model kemajuan ekonomi digital di 
 * **[Startup Decacorn](definition/DECACORN.md)**
   + [GOJEK](https://www.gojek.com)
 
-* **Unicorn**
+* **[Startup Unicorn](definition/UNICORN.md)**
   + [TOKOPEDIA](https://www.tokopedia.com)
   + [TRAVELOKA](https://www.traveloka.com)
   + [BUKALAPAK](https://www.bukalapak.com)
   + [OVO](https://play.google.com/store/apps/details?id=ovo.id&hl=in)
   
-* **Centaurs**
+* **[Startup Centaurs](definition/CENTAURS.md)**
   + []()
   
-* **Ponies**
+* **[Startup Ponies](definition/PONIES.md)**
   + []()
     
-* **Cockroach**
+* **[Startup Cockroach](definition/COCKROACH.md)**
   + []()
 
 
