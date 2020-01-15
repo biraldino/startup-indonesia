@@ -1,18 +1,18 @@
-# Pedoman Kontribusi
+# Contribution Guidelines
 
-Harap mematuhi syarat & ketentuan berikut:
+Please comply with the following terms & conditions:
 
-- Startup berbasis teknologi seperti tokopedia, gojek, traveloka, dll.
-- Startup berasal dari Indonesia.
-- Startup sudah memiliki legalitas minimal CV.
-- Startup sudah memiliki kantor operasional minimal virtual office (VO)
-- Startup sudah memiliki website.
-- Startup sudah memiliki tim setidaknya Founder dan Co-Founder.
-- Gunakan format: `[NAMA STARTUP](LINK WEBSITE atau LINK PLAY STORE)`.
-- Gunakan huruf abjad.
-- Dipersilahkan menambah dan menyempurnakan nama startup.
-- Deskripsi harus diakhiri dengan tanda titik (.).
-- Perhatikan ejaan dan tata bahasa Anda.
-- Pastikan editor teks Anda diatur untuk menghapus spasi-spasi tambahan.
+- Technology based startups such as Tokopedia, Gojek, Traveloka, etc.
+- Startup comes from Indonesia.
+- Startup already has a minimum legality of CV.
+- Startup already has a minimum virtual office (VO) operational office
+- Startup already has a website.
+- Startup already has a team of at least Founders and Co-Founders.
+- Use the format: `[STARTUP NAME] (LINK WEBSITE or LINK PLAY STORE)`.
+- Use letters of the alphabet.
+- Please add and perfect the startup name.
+- The description must end with a period (.).
+- Pay attention to your spelling and grammar.
+- Make sure your text editor is set to delete additional spaces.
 
-Terima kasih atas saran dan partisipasi Anda!
+Thank you for your advice and participation!
