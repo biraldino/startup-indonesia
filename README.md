@@ -17,10 +17,7 @@ Daftar startup-startup Indonesia yang menjadi model kemajuan ekonomi digital di 
   + [OVO](https://play.google.com/store/apps/details?id=ovo.id&hl=in)
   
 * **Centaurs**
-  + [TOKOPEDIA](https://www.tokopedia.com)
-  + [TRAVELOKA](https://www.traveloka.com)
-  + [BUKALAPAK](https://www.bukalapak.com)
-  + [OVO](https://play.google.com/store/apps/details?id=ovo.id&hl=in)
+  + []()
   
 * **Ponies**
   + [TOKOPEDIA](https://www.tokopedia.com)
