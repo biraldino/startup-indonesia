@@ -1,2 +1,2 @@
 # startup-indonesia
-Daftar Startuo Indonesia
+Daftar Startup Indonesia
