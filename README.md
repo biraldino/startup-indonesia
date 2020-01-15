@@ -1,6 +1,6 @@
 # Startup Indonesia untuk Ekonomi Digital Indonesia
 
-Daftar startup-startup .
+Daftar startup-startup Indonesia yang menjadi model kemajuan ekonomi digital di Indonesia.
 
 ## Daftar
 
@@ -24,4 +24,3 @@ Harap dibaca [CONTRIBUTING](CONTRIBUTING.md) untuk detailnya.
 ## Didaftar oleh *Kayetanus Biraldino*
 - Email: kayetanus.biraldino@gmail.com
 - Telegram: [@biraldino](https://t.me/biraldino)
-
