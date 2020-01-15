@@ -12,7 +12,7 @@ Harap mematuhi syarat & ketentuan berikut:
 - Gunakan huruf abjad.
 - Dipersilahkan menambah dan menyempurnakan nama startup.
 - Deskripsi harus diakhiri dengan tanda titik (.).
-- Pehatikan ejaan dan tata bahasa Anda.
+- Perhatikan ejaan dan tata bahasa Anda.
 - Pastikan editor teks Anda diatur untuk menghapus spasi-spasi tambahan.
 
 Terima kasih atas saran dan partisipasi Anda!
