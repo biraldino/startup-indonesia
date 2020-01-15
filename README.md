@@ -1,8 +1,8 @@
-# Mendukung Ekonomi Digital Indonesia
+# Startup Indonesia untuk Ekonomi Digital Indonesia
 
 Daftar startup-startup .
 
-## List
+## Daftar
 
 ### Startup Indonesia
 
