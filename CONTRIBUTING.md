@@ -4,7 +4,7 @@ Please comply with the following terms & conditions:
 
 - Technology based startups such as Tokopedia, Gojek, Traveloka, etc.
 - Startup comes from Indonesia.
-- Startup already has a minimum legality of Commanditaire Vennootschap (CV).
+- Startup already has at least a CV (Commanditaire Vennootschap) legality.
 - Startup already has operational offices at least virtual office (VO).
 - Startup already has a website.
 - Startup already has a team of at least Founders and Co-Founders.
