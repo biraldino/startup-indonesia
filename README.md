@@ -1,6 +1,6 @@
 # Startup Indonesia untuk Ekonomi Digital Indonesia
 
-Daftar startup-startup Indonesia yang menjadi model kemajuan ekonomi digital di Indonesia.
+Daftar startup Indonesia yang menjadi model kemajuan ekonomi digital di Indonesia.
 
 ## Daftar
 
